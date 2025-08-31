@@ -13,7 +13,7 @@ Afin de pouvoir facilement installer, modifier et utiliser l'application **Fresq
 Vous trouverez ci-dessous une procédure d'installation simple, organisée par étapes :
 
 1. Cloner ce dépôt GitHub :
-    - `git clone https://github.com/tominien/fresqu-aeromaps.git`
+    - `git clone https://github.com/fresqu-aeromaps/fresqu-aeromaps.git`
     - `cd fresqu-aeromaps`
 2. Installer les outils de compilation et les headers Python :
     - `sudo apt update`
@@ -54,9 +54,9 @@ Tutoriel de lancement de la version "Jupyter Notebook" :
 
 L'application **Fresqu'AéroMAPS** est hébergée en ligne sur 2 sites.
 
-1. Sur [render.com](https://render.com), à l'adresse suivante : https://tominien.onrender.com.
+1. Sur [render.com](https://render.com), à l'adresse suivante : https://fresqu-aeromaps.onrender.com.
     - Le temps de chargement initial et de mise à jour de l'application peut être un peu long.
-2. Sur [binder.org](https://mybinder.org), à l'adresse suivante : https://mybinder.org/v2/gh/tominien/fresqu-aeromaps/Binder?urlpath=lab/tree/app.ipynb
+2. Sur [binder.org](https://mybinder.org), à l'adresse suivante : https://mybinder.org/v2/gh/fresqu-aeromaps/fresqu-aeromaps/Binder?urlpath=lab/tree/app.ipynb
     - Cette version est beaucoup plus rapide que celle hébergée sur Render, mais elle est moins intuitive.
 
 ## Template du fichier d'environnement
